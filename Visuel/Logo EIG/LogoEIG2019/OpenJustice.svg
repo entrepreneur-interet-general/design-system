@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="207px" height="149px" viewBox="0 0 207 149" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53.2 (72643) - https://sketchapp.com -->
+    <title>g17682</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linejoin="round">
+        <g id="EIG3" transform="translate(-436.000000, -741.000000)" stroke-width="8">
+            <g id="layer1" transform="translate(0.000000, 0.952700)">
+                <g id="g17682" transform="translate(439.729813, 743.941931)">
+                    <path d="M99.60043,140.27043 L99.60042,22.40321" id="path4353" stroke="#20459A" stroke-linecap="round"></path>
+                    <path d="M14.85284,17.12552 L187.58892,17.12552" id="path4328" stroke="#20459A" stroke-linecap="round"></path>
+                    <path d="M61.31565,140.1621 L137.88521,140.1621" id="path4362" stroke="#20459A" stroke-linecap="round"></path>
+                    <g id="g4370" transform="translate(0.239680, 1.863790)" stroke="#E9222E">
+                        <polyline id="path4360" points="20.20815 14.66759 0.47171 88.32499 44.24978 88.32499 24.08625 13.07369"></polyline>
+                        <circle id="circle4364" fill="#FFFFFF" fill-rule="nonzero" stroke-linecap="square" cx="22.36075" cy="16.74722" r="16.059361"></circle>
+                    </g>
+                    <g id="g4374" transform="translate(154.239680, 1.863790)" stroke="#E9222E">
+                        <polyline id="path4366" points="20.20815 14.66759 0.47171 88.32499 44.24978 88.32499 24.08625 13.07369"></polyline>
+                        <circle id="circle4368" fill="#FFFFFF" fill-rule="nonzero" stroke-linecap="square" cx="22.36075" cy="16.74722" r="16.059361"></circle>
+                    </g>
+                    <circle id="circle17680" stroke="#20459A" fill="#FFFFFF" fill-rule="nonzero" stroke-linecap="square" cx="99.6004" cy="16.53656" r="16.059361"></circle>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="173px" height="178px" viewBox="0 0 173 178" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53.2 (72643) - https://sketchapp.com -->
+    <title>Group</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linejoin="round">
+        <g id="EIG2[T]" transform="translate(-118.000000, -1072.000000)">
+            <g id="Group" transform="translate(115.568243, 1076.556800)">
+                <polyline id="path4659" stroke="#20459A" stroke-width="8" stroke-linecap="round" points="23.427877 67.2067 23.427877 42.3276 96.741477 0 171.366877 43.085 171.366877 126.4823 97.611517 169.0649 66.598957 153.4458"></polyline>
+                <circle id="circle4796" stroke="#20459A" stroke-width="7.99999999" stroke-linecap="square" transform="translate(23.059361, 83.256903) rotate(-45.000000) translate(-23.059361, -83.256903) " cx="23.059361" cy="83.2569027" r="16.059361"></circle>
+                <circle id="circle4798" stroke="#20459A" stroke-width="7.99999999" stroke-linecap="square" transform="translate(53.461790, 144.212072) rotate(-45.000000) translate(-53.461790, -144.212072) " cx="53.4617896" cy="144.212072" r="16.059361"></circle>
+                <path d="M97.397177,71.82554 L97.397177,118.86181" id="path4800" stroke="#E9222E" stroke-width="8" stroke-linecap="round"></path>
+                <circle id="circle4802" stroke="#E9222E" stroke-width="8" stroke-linecap="square" cx="97.397167" cy="52.99861" r="16.059361"></circle>
+            </g>
+        </g>
+    </g>
+</svg>

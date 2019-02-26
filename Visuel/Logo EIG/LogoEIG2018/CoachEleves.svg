@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="183px" height="183px" viewBox="0 0 183 183" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53.2 (72643) - https://sketchapp.com -->
+    <title>Group</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linejoin="round">
+        <g id="EIG2[T]" transform="translate(-448.000000, -1763.000000)">
+            <g id="Group" transform="translate(423.180600, 1737.994347)">
+                <polyline id="path4808" stroke="#20459A" stroke-width="8" stroke-linecap="round" points="118.55959 83.3536528 170.38326 31.5299528 201.29936 62.4460528 201.29936 62.4460528 149.59998 114.145453"></polyline>
+                <polyline id="path4804" stroke="#20459A" stroke-width="8" stroke-linecap="round" points="114.18383 149.561553 61.91611 201.829353 31 170.913253 83.46231 118.450853"></polyline>
+                <g id="g4488" transform="translate(109.961122, 110.509577) rotate(45.000000) translate(-109.961122, -110.509577) translate(97.545319, 35.244253)" stroke="#20459A" stroke-linecap="round" stroke-width="8.01494282">
+                    <path d="M0.244770114,149.635153 L23.9960629,149.635153" id="path4400"></path>
+                    <path d="M0.244770114,112.443687 L15.4494013,112.443687" id="path4402"></path>
+                    <path d="M0.244770114,38.0608621 L15.4494013,38.0608621" id="path4404"></path>
+                    <path d="M0.244770114,0.869395713 L23.9960629,0.869395713" id="path4465"></path>
+                </g>
+                <g id="g4448" transform="translate(108.705139, 108.000000) rotate(-45.000000) translate(-108.705139, -108.000000) translate(69.205139, -5.000000)" stroke="#E9222E" stroke-width="7.99999999">
+                    <g id="g4454">
+                        <polygon id="rect4366" stroke-linecap="round" points="60.6747199 105.0968 61.4004299 225.0577 15.85281 225.0577 17.37929 105.0968 0.0326899999 55.7641999 38.6266199 0.971599998 78.0342299 55.9143999"></polygon>
+                        <circle id="circle4424" stroke-linecap="square" cx="39.0334499" cy="65.5004999" r="16.059361"></circle>
+                        <path d="M39.0334599,2.0006 L39.0334599,45.5417999" id="path4444" stroke-linecap="round"></path>
+                        <path d="M60.8040599,102.2371 L17.26286,102.2371" id="path4446" stroke-linecap="round"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

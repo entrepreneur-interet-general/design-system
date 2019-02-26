@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="196px" height="196px" viewBox="0 0 196 196" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53.2 (72643) - https://sketchapp.com -->
+    <title>g4659</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linejoin="round">
+        <g id="EIG3" transform="translate(-441.000000, -24.000000)" stroke-width="7.99999999">
+            <g id="layer1" transform="translate(0.000000, 0.952700)">
+                <g id="g4659" transform="translate(539.326743, 120.897904) rotate(45.000000) translate(-539.326743, -120.897904) translate(473.826743, 37.897904)">
+                    <g id="g4651" transform="translate(79.000000, 15.395400)" stroke="#20459A" stroke-linecap="round">
+                        <polyline id="path4613" points="0.746519999 0.369899999 51.7464899 0.369899999 51.7464899 59.3698999 30.7464899 38.3698999 1.74655 67.3697999"></polyline>
+                        <polyline id="path4615" points="0.489269999 134.6386 51.4891999 134.6386 51.4891999 75.6385999 30.4891899 96.6385998 1.48926 67.6385999"></polyline>
+                    </g>
+                    <g id="g4655" transform="translate(0.000000, 15.000000)" stroke="#E9222E" stroke-linecap="round">
+                        <polyline id="path4619" points="51.0626599 135.034 0.0626999999 135.034 0.0626999999 76.0339999 21.0627 97.0339998 50.0626299 68.0340999"></polyline>
+                        <polyline id="path4621" points="51.3199199 0.765299999 0.319979999 0.765299999 0.319979999 59.7652999 21.31999 38.7652999 50.3199299 67.7652999"></polyline>
+                    </g>
+                    <circle id="circle4625" stroke="#E9222E" fill="#FFFFFF" fill-rule="nonzero" stroke-linecap="square" transform="translate(65.404600, 16.239600) rotate(180.000000) translate(-65.404600, -16.239600) " cx="65.4045999" cy="16.2396" r="16.059361"></circle>
+                    <circle id="circle4617" stroke="#20459A" fill="#FFFFFF" fill-rule="nonzero" stroke-linecap="square" cx="65.4045999" cy="149.262" r="16.059361"></circle>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="153px" height="198px" viewBox="0 0 153 198" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53.2 (72643) - https://sketchapp.com -->
+    <title>g17742</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linejoin="round">
+        <g id="EIG3" transform="translate(-128.000000, -1757.000000)" stroke-width="7.99999999">
+            <g id="layer1" transform="translate(0.000000, 0.952700)">
+                <g id="g17742" transform="translate(131.776665, 1758.669462)">
+                    <g id="g4846" transform="translate(67.000000, 0.000000)" stroke="#E9222E">
+                        <g id="g4832" transform="translate(41.945315, 81.573182) rotate(-14.945884) translate(-41.945315, -81.573182) translate(19.445315, 3.573182)" stroke-linecap="round">
+                            <path d="M0.59293,1.0078 L44.43355,1.0078" id="path4834"></path>
+                            <polyline id="path4836" points="13.6744 3.7149 13.6744 79.3752999 31.35207 79.3752999 31.35207 2.3007"></polyline>
+                            <polyline id="path4838" points="13.73044 80.2591799 22.46525 113.2936 31.29604 79.9009799"></polyline>
+                            <path d="M22.51324,113.3164 L22.51324,155.0357" id="path4840"></path>
+                        </g>
+                        <circle id="circle4318" fill="#FFFFFF" fill-rule="nonzero" stroke-linecap="square" transform="translate(62.002635, 156.660608) rotate(-14.945884) translate(-62.002635, -156.660608) " cx="62.002635" cy="156.660608" r="16.059361"></circle>
+                    </g>
+                    <g id="g4854" transform="translate(0.000000, 18.000000)" stroke="#20459A">
+                        <g id="g4826" transform="translate(41.993165, 81.445198) rotate(-14.945884) translate(-41.993165, -81.445198) translate(19.493165, 3.445198)" stroke-linecap="round">
+                            <path d="M0.59293,1.0078 L44.43355,1.0078" id="path4818"></path>
+                            <polyline id="path4820" points="13.6744 3.7149 13.6744 79.3752999 31.35207 79.3752999 31.35207 2.3007"></polyline>
+                            <polyline id="path4822" points="13.73044 80.2591799 22.46525 113.2936 31.29604 79.9009799"></polyline>
+                            <path d="M22.51324,113.3164 L22.51324,155.0357" id="path4824"></path>
+                        </g>
+                        <circle id="circle4844" fill="#FFFFFF" fill-rule="nonzero" stroke-linecap="square" transform="translate(62.050486, 156.532623) rotate(-14.945884) translate(-62.050486, -156.532623) " cx="62.0504856" cy="156.532623" r="16.059361"></circle>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
