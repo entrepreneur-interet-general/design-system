@@ -10,7 +10,7 @@ des modules, des interfaces et des *données* permettant à un système de satis
 Dans l'espace numérique un **design system** est un référentiel UX et UI que les éditeurs et les parties prenantes utilisent pour designer et développer des produits ou des services. Quel que soit **l'objet** (application, plateforme de service, siteweb…), **le secteur** (BtoC, BtoB, BtoE…) et **les supports** (web, mobile, système embarqué…). 
 
 Un **design system** agit sur 3 composantes du design : le visuel, les usages et le langage.
-* [**Visuel**](/Visuel.md) : les éléments visuels permettent de faire transparaître les valeurs, le positionnement et la raison d’être et sont la base de la perception des utilisateurs.
+* [**Visuel**](/Visuel/Visuel.md) : les éléments visuels permettent de faire transparaître les valeurs, le positionnement et la raison d’être et sont la base de la perception des utilisateurs.
 * **Usages** : les usages se doivent d’être les plus simples et intuitifs possibles pour les utilisateurs et correspondent aux comportements des utilisateurs sur le numérique. 
 * **Langage** : le langage est la manière dont une organisation s’adresse à ses utilisateurs afin de les accompagner dans leurs prises de décisions et leurs actions.
 
