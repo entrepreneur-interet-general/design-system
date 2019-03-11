@@ -14,7 +14,7 @@ D'autres références et ressources comme https://template.data.gouv.fr/ (cf. [G
 	* [Logos **EIG 2019**](Visuel/Logo/LogoEIG2019) : au [format SVG](Visuel/Logo/LogoEIG2019.svg), au [format PNG](Visuel/Logo/LogoEIG2019.png)
 	* [Logos **EIG 2018**](Visuel/Logo/LogoEIG2019) : au [format SVG](Visuel/Logo/LogoEIG2018.svg), au [format PNG](Visuel/Logo/LogoEIG2018.png)
 * [**Ressources**/Com](Visuel/Ressources/Com/) : sont quelles ressources pour communiquer simplement
-	* Présentation (aux formats [ODP (opensource)](/Visuel/Ressources/Com/PrésentationEIG.odp), [PPT](/Visuel/Ressources/Com/PrésentationEIG.pptx), [KEY](/Visuel/Ressources/Com/PrésentationEIG.key), [Slide](https://docs.google.com/presentation/d/1t-XPts11-v4aBxwbiaOyEyyFkgVD5i7IGTZBUpFhZfU/edit?usp=sharing))
+	* **Template de présentation** (aux formats [ODP (opensource)](/Visuel/Ressources/Com/PrésentationEIG.odp), [PPT](/Visuel/Ressources/Com/PrésentationEIG.pptx), [KEY](/Visuel/Ressources/Com/PrésentationEIG.key), [Slide](https://docs.google.com/presentation/d/1t-XPts11-v4aBxwbiaOyEyyFkgVD5i7IGTZBUpFhZfU/edit?usp=sharing))
 * [**Illustration**/unDraw](Visuel/Illustration/unDraw) : Ce sont des exemples d'illustrations de personnes provenant du site [unDraw](https://undraw.co/illustrations) au couleur du programme EIG
 * [**Police**](Visuel/Police/) : sont les polices/typo utilisées sur le siteweb EIG 
 
