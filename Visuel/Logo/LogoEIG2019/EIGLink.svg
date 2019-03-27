@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="240px" height="240px" viewBox="0 0 240 240" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53.2 (72643) - https://sketchapp.com -->
+    <title>EIGLink</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="EIG3" transform="translate(-119.000000, -680.000000)">
+            <g id="layer1">
+                <g id="EIGLink" transform="translate(119.000000, 680.000000)">
+                    <rect id="rect4504" fill="#FDFDFD" fill-rule="nonzero" transform="translate(120.000000, 120.000000) scale(-1, 1) rotate(-180.000000) translate(-120.000000, -120.000000) " x="1.42108547e-14" y="0" width="240" height="240"></rect>
+                    <path d="M105.191018,114.264694 L59.7753979,91.9721939" id="path4685" stroke="#20459A" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"></path>
+                    <path d="M129.520838,107.310294 L170.123738,50.6709939" id="path4690" stroke="#20459A" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"></path>
+                    <path d="M107.377778,130.098394 L58.0313179,171.396694" id="path4680" stroke="#20459A" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"></path>
+                    <path d="M126.097568,135.149594 L156.167528,189.512394" id="path4703" stroke="#20459A" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"></path>
+                    <circle id="circle4326" stroke="#20459A" stroke-width="7.99999999" stroke-linecap="square" stroke-linejoin="round" transform="translate(180.031309, 38.059361) rotate(-45.000000) translate(-180.031309, -38.059361) " cx="180.031309" cy="38.059361" r="16.059361"></circle>
+                    <circle id="circle4330" stroke="#20459A" stroke-width="7.99999999" stroke-linecap="square" stroke-linejoin="round" transform="translate(45.059361, 85.549374) rotate(-45.000000) translate(-45.059361, -85.549374) " cx="45.059361" cy="85.5493736" r="16.059361"></circle>
+                    <circle id="circle4348" stroke="#20459A" stroke-width="7.99999999" stroke-linecap="square" stroke-linejoin="round" transform="translate(164.044813, 203.487204) rotate(-45.000000) translate(-164.044813, -203.487204) " cx="164.044813" cy="203.487204" r="16.059361"></circle>
+                    <circle id="circle4350" stroke="#20459A" stroke-width="7.99999999" stroke-linecap="square" stroke-linejoin="round" transform="translate(45.308439, 181.169111) rotate(-45.000000) translate(-45.308439, -181.169111) " cx="45.3084393" cy="181.169111" r="16.059361"></circle>
+                    <path d="M135.864378,123.103994 L177.880678,130.704994" id="path4695" stroke="#20459A" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"></path>
+                    <circle id="circle4354" stroke="#20459A" stroke-width="7.99999999" stroke-linecap="square" stroke-linejoin="round" transform="translate(193.652102, 133.636276) rotate(-45.000000) translate(-193.652102, -133.636276) " cx="193.652102" cy="133.636276" r="16.059361"></circle>
+                    <circle id="circle4675" stroke="#E9222E" stroke-width="8" stroke-linecap="square" stroke-linejoin="round" cx="120.071218" cy="120.274404" r="16.059361"></circle>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
