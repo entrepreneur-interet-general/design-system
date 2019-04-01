@@ -1,13 +1,26 @@
 # Design System - EIG
 
+Ce dépôt à un double objectif :
+* Définir ce qu'est un design system 
+* Construire et mettre en application le deisgn system au sein du programme EIG
+
 ## Sommaire
 
-* [Définition](#définition)
-* [Enjeux](#enjeux) 
-* [Principes](#principes)
-* [Visuel EIG](#visuel-eig)
+* [Définition Design System](#définition-design-system)
+	* [Enjeux](#enjeux) 
+	* [Principes](#principes)
+	* [Ressources Design System](#ressources-design-system)
+		* [Exemples de design system](#exemples-de-design-system)
+		* [Articles design system](#articles-design-system)
+* [Design System EIG](#design-system-eig)
+	* [Contexte de l'Etat](#contexte-de-l-etat)
+	* [Visuel du programme EIG](#visuel-du-programme-eig)
+	* [Exemple avec la liste des logos EIG 2019](#exemple-avec-la-liste-des-logos-eig-2019)
+* [Maintenance de ce dépôt](#maintenance-de-ce-dépôt)
+* [Contributions sur ce dépôt](#contributions-sur-ce-dépôt)
+* [Licence](#licence)
 
-## Définition 
+## Définition Design System
 
 Un **design system** (ou une conception de *système*) est un processus de définition de l'architecture, 
 des modules, des interfaces et des *données* permettant à un système de satisfaire à des *exigences* spécifiques. La conception de système pourrait être considérée comme l'application de la *théorie des systèmes* au *développement de produits*.
@@ -21,7 +34,7 @@ Un **design system** agit sur 3 composantes du design : le visuel, les usages et
 * **Usages** : les usages doivent être les plus simples et intuitifs possibles pour les utilisateurs et correspondent aux comportements des utilisateurs en ligne. 
 * **Langage** : le langage est la manière dont une organisation s’adresse à ses utilisateurs afin de les accompagner dans leurs prises de décisions et leurs actions.
 
-## Enjeux
+### Enjeux
 
 Le Design System intervient pour répondre aux nouveaux enjeux du design :
  
@@ -30,7 +43,7 @@ Le Design System intervient pour répondre aux nouveaux enjeux du design :
 > * **Optimisation** : optimiser le temps de design, de développement et ainsi optimiser leur budget et leur *time to market*.
 > * **Organisation** : permettre à l’ensemble des intervenants d’avoir un point central qui fera référence et apportera la cohérence souhaitée.
 
-## Principes
+### Principes
 
 Voici les 5 grands principes de la démarche de Design System :
 
@@ -40,9 +53,33 @@ Voici les 5 grands principes de la démarche de Design System :
 > * **Universel** : un Design System doit pouvoir reprendre un ensemble de standards universels qui permettra aux utilisateurs de ne pas avoir à acquérir de nouvelles habitudes. Il doit également répondre à des logiques d’internationalisation, que ce soit sur les usages ou le langage.
 > * **Inclusive** : le Design System doit s'adresser à tous, indépendamment du contexte d’utilisation et du niveau de maturité des utilisateurs avec le numérique. Il doit intégrer les grandes règles d’utilisabilité et d’accessibilité.
 
-## Visuel EIG
+### Ressources Design System
 
-### Contexte 
+#### Exemples de design system 
+
+* https://polaris.shopify.com/
+* **http://styleguides.io/**
+* https://styleguide.mailchimp.com/
+* https://principles.design/
+* https://www.invisionapp.com/inside-design/ux-team-core-values/
+* http://www.bbc.co.uk/gel/guidelines/how-to-use-reactions-in-your-content
+* https://atlassian.design/
+* https://www.ibm.com/design/language/
+* https://www.lightningdesignsystem.com/
+* https://design-system.futurelearn.com/
+* https://dev.fitbit.com/guides/design-guidelines/
+* https://styleguide.pivotal.io/
+
+#### Articles design system
+
+> * [Systems design](https://en.wikipedia.org/wiki/Systems_design) par Wikipédia 
+> * [Tout savoir sur le Design System](https://newflux.fr/2017/10/23/savoir-design-system/) par Simon Gomez
+> * [Tout savoir sur les systèmes de design System](https://medium.com/@audreyhacq/tout-savoir-sur-les-syst%C3%A8mes-de-design-1b6400c9a1b3) par Audrey Hacq
+> * [Qu'est-ce qu'un design system](https://www.usabilis.com/design-system/) par Usabilis
+
+## Design System EIG
+
+### Contexte de l'Etat
 
 La [Charte Internet de l'Etat](http://references.modernisation.gouv.fr/charte-internet-de-letat
 ) a été publiée en Février 2012. Elle constitue un guide pratique et opérationnel dans le but de garantir une amélioration de la qualité générale de l'Internet de l'État. Cette Charte s'appuie sur la [Charte Ergonomique des sites internet publics](http://references.modernisation.gouv.fr/sites/default/files/Charte_ergonomique_v2.0_2.pdf)datant de 2008, qui définit un ensemble de règles ergonomiques communes aux interfaces des sites Internet publics. 
@@ -69,33 +106,10 @@ Concernant le visuel du programme nous avons les élements suivants :
 * Des [**illustration unDraw**](Visuel/Illustration/unDraw) : Ce sont des exemples d'illustrations de personnes provenant du site [unDraw](https://undraw.co/illustrations) au couleur du programme EIG
 * Des [**polices/typos**](Visuel/Police/) utilisées sur le site web EIG 
 
-#### Exemple avec la liste des logos EIG 2019
+### Exemple avec la liste des logos EIG 2019
 
 ![Liste des logos EIG 2019](Visuel/Logo/LogoEIG2019.png)
 
-## Comprendre le Design System
-
-### D'autres exemples de design system 
-
-* https://polaris.shopify.com/
-* **http://styleguides.io/**
-* https://styleguide.mailchimp.com/
-* https://principles.design/
-* https://www.invisionapp.com/inside-design/ux-team-core-values/
-* http://www.bbc.co.uk/gel/guidelines/how-to-use-reactions-in-your-content
-* https://atlassian.design/
-* https://www.ibm.com/design/language/
-* https://www.lightningdesignsystem.com/
-* https://design-system.futurelearn.com/
-* https://dev.fitbit.com/guides/design-guidelines/
-* https://styleguide.pivotal.io/
-
-### Sources/articles pour comprendre un design system
-
-> * [Systems design](https://en.wikipedia.org/wiki/Systems_design) par Wikipédia 
-> * [Tout savoir sur le Design System](https://newflux.fr/2017/10/23/savoir-design-system/) par Simon Gomez
-> * [Tout savoir sur les systèmes de design System](https://medium.com/@audreyhacq/tout-savoir-sur-les-syst%C3%A8mes-de-design-1b6400c9a1b3) par Audrey Hacq
-> * [Qu'est-ce qu'un design system](https://www.usabilis.com/design-system/) par Usabilis
 
 ## Maintenance de ce dépôt
 
