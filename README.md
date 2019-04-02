@@ -1,10 +1,10 @@
 # Design System - EIG
 
-Ce dépôt a un double objectif 
-* Définir le *design system* 
-* Construire et mettre en application un design system au sein du programme EIG
+Ce dépôt a un double objectif :
+* Définir et comprendre le *design system* 
+* Construire un design system au sein du programme EIG et le mettre en application
 
-Ce dépôt est à destination du programme Entrepreneur d'Intérêt Général.
+Ce dépôt est à destination des parties prenantes du programme Entrepreneur d'Intérêt Général.
 
 ## Sommaire
 
