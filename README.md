@@ -58,6 +58,10 @@ Voici les 5 grands principes de la démarche de *design system* :
 
 * **http://styleguides.io/**
 * https://material.io/
+* https://material-ui.com/
+* https://react.semantic-ui.com/
+* https://ant.design/
+* https://bulma.io/
 * https://www.carbondesignsystem.com/
 * https://polaris.shopify.com/
 * https://styleguide.mailchimp.com/
