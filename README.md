@@ -1,10 +1,10 @@
 # Design System - EIG
 
 Ce dépôt a un double objectif :
-* Définir et comprendre le *design system* 
-* Construire un design system au sein du programme EIG et le mettre en application
+1. Définir et comprendre le processus de *design system* 
+2. Construire un design system au sein du programme EIG et le mettre en application afin d'en définir les limites et les règles
 
-Ce dépôt est à destination des parties prenantes du programme Entrepreneur d'Intérêt Général.
+Ce dépôt est à destination principalement des parties prenantes du programme Entrepreneur d'Intérêt Général et peut-être utile à toutes personnes cherchant à comprendre l'utilité d'un design system.
 
 ## Sommaire
 
@@ -28,7 +28,7 @@ des modules, des interfaces et des *données* permettant à un système de satis
 
 > *"Un système de conception n’est pas un projet. C’est un produit servant des produits." Nathan Curtis*
 
-Dans l'espace numérique un ***design system*** est un référentiel UX et UI que les éditeurs et les parties prenantes utilisent pour designer et développer des produits ou des services. Quel que soit **l'objet** (application, plateforme de service, siteweb…), **le secteur** (BtoC, BtoB, BtoE…) et **les supports** (web, mobile, système embarqué…). 
+Dans l'espace numérique un ***design system*** est un processus référentiel UX et UI que les éditeurs et les parties prenantes utilisent pour designer et développer des produits ou des services. Quel que soit **l'objet** (application, plateforme de service, siteweb…), **le secteur** (BtoC, BtoB, BtoE…) et **les supports** (web, mobile, système embarqué…). 
 
 Un ***design system*** agit sur 3 composantes du design : le visuel, les usages et le langage.
 * **Visuel**: les éléments visuels permettent de faire apparaître les valeurs, le positionnement et la raison d’être et sont la base de la perception des utilisateurs.
@@ -56,8 +56,10 @@ Voici les 5 grands principes de la démarche de *design system* :
 
 ### Exemples de *design systems*
 
-* https://polaris.shopify.com/
 * **http://styleguides.io/**
+* https://material.io/
+* https://www.carbondesignsystem.com/
+* https://polaris.shopify.com/
 * https://styleguide.mailchimp.com/
 * https://principles.design/
 * https://www.invisionapp.com/inside-design/ux-team-core-values/
