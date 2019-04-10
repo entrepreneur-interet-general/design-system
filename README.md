@@ -4,7 +4,7 @@ Ce dépôt a un double objectif :
 1. Définir et comprendre le processus de *design system* 
 2. Construire un design system au sein du programme EIG et le mettre en application afin d'en définir les limites et les règles
 
-Ce dépôt est à destination principalement des parties prenantes du programme Entrepreneur d'Intérêt Général et peut-être utile à toutes personnes cherchant à comprendre l'utilité d'un design system.
+Ce dépôt est à destination principalement des parties prenantes du programme Entrepreneur d'Intérêt Général. Il peut également être utile à toutes personnes cherchant à comprendre l'utilité d'un design system, en particulier pour les agents de la fonction publique.
 
 ## Sommaire
 
@@ -14,7 +14,7 @@ Ce dépôt est à destination principalement des parties prenantes du programme 
 	* [Exemples de *design systems*](#exemples-de-design-systems)
 	* [Articles sur le *design system*](#articles-sur-le-design-system)
 * [Design System EIG](#design-system-eig)
-	* [Contexte de l'Etat](#contexte-de-l-etat)
+	* [Contexte de l'Etat](#contexte-de-letat)
 	* [Visuel du programme EIG](#visuel-du-programme-eig)
 	* [Exemple avec la liste des logos EIG 2019](#exemple-avec-la-liste-des-logos-eig-2019)
 * [Maintenance de ce dépôt](#maintenance-de-ce-dépôt)
@@ -28,7 +28,7 @@ des modules, des interfaces et des *données* permettant à un système de satis
 
 > *"Un système de conception n’est pas un projet. C’est un produit servant des produits." Nathan Curtis*
 
-Dans l'espace numérique un ***design system*** est un processus référentiel UX et UI que les éditeurs et les parties prenantes utilisent pour designer et développer des produits ou des services. Quel que soit **l'objet** (application, plateforme de service, siteweb…), **le secteur** (BtoC, BtoB, BtoE…) et **les supports** (web, mobile, système embarqué…). 
+Dans l'espace numérique un ***design system*** est un processus référentiel UX et UI que les éditeurs et les parties prenantes utilisent pour designer et développer des produits ou des services. Quel que soit **l'objet** (application, plateforme de service, siteweb…), quel que soit **le secteur** (BtoC, BtoB, BtoE…) et quel que soit **les supports** (web, mobile, print…). 
 
 Un ***design system*** agit sur 3 composantes du design : le visuel, les usages et le langage.
 * **Visuel**: les éléments visuels permettent de faire apparaître les valeurs, le positionnement et la raison d’être et sont la base de la perception des utilisateurs.
@@ -94,7 +94,7 @@ D'autres références et ressources comme https://template.data.gouv.fr/ (cf. [G
 ### Visuel du programme EIG
 
 Le design system pour le programme EIG évolue en fonction des besoins. 
-Ce dépôt est à principalement à destination des entrepreneurs du programme.
+Ce dépôt est principalement à destination des entrepreneurs du programme.
 
 Concernant le visuel du programme nous avons les élements suivants :
 
