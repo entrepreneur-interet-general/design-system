@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="240px" height="240px" viewBox="0 0 240 240" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.2 (78181) - https://sketchapp.com -->
+    <title>11</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard" transform="translate(-694.000000, -691.000000)">
+            <g id="11" transform="translate(694.000000, 691.000000)">
+                <rect id="Rectangle" fill="#FFFFFF" x="0" y="0" width="240" height="240"></rect>
+                <polyline id="Line" stroke="#E9222E" stroke-width="8" stroke-linecap="square" points="48.4817421 140.993378 48.4817421 160.636642 64 169.628688"></polyline>
+                <polyline id="Line" stroke="#20459A" stroke-width="8" stroke-linecap="square" transform="translate(55.759129, 86.317655) rotate(60.000000) translate(-55.759129, -86.317655) " points="48 72 48 91.6432637 63.5182579 100.63531"></polyline>
+                <polyline id="Line" stroke="#E9222E" stroke-width="8" stroke-linecap="square" transform="translate(182.759129, 155.317655) scale(-1, -1) rotate(60.000000) translate(-182.759129, -155.317655) " points="175 141 175 160.643264 190.518258 169.63531"></polyline>
+                <polyline id="Line" stroke="#20459A" stroke-width="8" stroke-linecap="square" transform="translate(183.759129, 86.317655) scale(-1, -1) translate(-183.759129, -86.317655) " points="176 72 176 91.6432637 191.518258 100.63531"></polyline>
+                <polyline id="Line" stroke="#E9222E" stroke-width="8" stroke-linecap="square" transform="translate(118.312755, 52.800655) scale(-1, -1) rotate(-61.000000) translate(-118.312755, -52.800655) " points="109 36 109 58.6373561 127.62551 69.6013101"></polyline>
+                <polyline id="Line" stroke="#20459A" stroke-width="8" stroke-linecap="square" transform="translate(120.312755, 187.800655) scale(-1, 1) rotate(-61.000000) translate(-120.312755, -187.800655) " points="111 171 111 193.637356 129.62551 204.60131"></polyline>
+                <circle id="circle4305" stroke="#E9222E" stroke-width="7.99999999" fill="#FFFFFF" fill-rule="nonzero" stroke-linecap="square" stroke-linejoin="round" cx="80.059361" cy="184.059361" r="16.059361"></circle>
+                <circle id="circle4305" stroke="#20459A" stroke-width="7.99999999" fill="#FFFFFF" fill-rule="nonzero" stroke-linecap="square" stroke-linejoin="round" cx="158.059361" cy="184.059361" r="16.059361"></circle>
+                <circle id="circle4305" stroke="#E9222E" stroke-width="7.99999999" fill="#FFFFFF" fill-rule="nonzero" stroke-linecap="square" stroke-linejoin="round" cx="191.059361" cy="121.059361" r="16.059361"></circle>
+                <circle id="circle4305" stroke="#20459A" stroke-width="7.99999999" fill="#FFFFFF" fill-rule="nonzero" stroke-linecap="square" stroke-linejoin="round" cx="158.059361" cy="58.059361" r="16.059361"></circle>
+                <circle id="circle4305" stroke="#E9222E" stroke-width="7.99999999" fill="#FFFFFF" fill-rule="nonzero" stroke-linecap="square" stroke-linejoin="round" cx="80.059361" cy="58.059361" r="16.059361"></circle>
+                <circle id="circle4305" stroke="#20459A" stroke-width="7.99999999" fill="#FFFFFF" fill-rule="nonzero" stroke-linecap="square" stroke-linejoin="round" cx="48.059361" cy="121.059361" r="16.059361"></circle>
+            </g>
+        </g>
+    </g>
+</svg>

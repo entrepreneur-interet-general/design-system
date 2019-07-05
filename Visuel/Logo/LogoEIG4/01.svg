@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="240px" height="240px" viewBox="0 0 240 240" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.2 (78181) - https://sketchapp.com -->
+    <title>01</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard" transform="translate(-138.000000, -135.000000)">
+            <g id="01" transform="translate(138.000000, 135.000000)">
+                <rect id="Rectangle" fill="#FFFFFF" x="0" y="0" width="240" height="240"></rect>
+                <polygon id="path4299" stroke="#20459A" stroke-width="8" stroke-linecap="round" stroke-linejoin="round" points="141 59 81 99 66 99 66 139 81 139 141 180.202112"></polygon>
+                <path d="M203,120.5 L223.972985,120.5" id="path4299" stroke="#20459A" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"></path>
+                <circle id="circle4305" stroke="#E9222E" stroke-width="7.99999999" fill="#FFFFFF" fill-rule="nonzero" stroke-linecap="square" stroke-linejoin="round" cx="172.059361" cy="120.559361" r="16.059361"></circle>
+                <polyline id="path4303" stroke="#E9222E" stroke-width="8" stroke-linejoin="round" points="53.4606988 139 68.5916469 184.81266 45.606598 184.81266 31 139"></polyline>
+                <polygon id="path4299" stroke="#20459A" stroke-width="8" stroke-linecap="round" stroke-linejoin="round" points="66 99 31 99 16 109 16 129 31 139 66 139"></polygon>
+                <path d="M197,148.5 L210,162.5" id="path4299" stroke="#20459A" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"></path>
+                <path d="M197,78.5 L210,92.5" id="path4299" stroke="#20459A" stroke-width="8" stroke-linecap="round" stroke-linejoin="round" transform="translate(203.500000, 85.500000) scale(-1, 1) translate(-203.500000, -85.500000) "></path>
+            </g>
+        </g>
+    </g>
+</svg>

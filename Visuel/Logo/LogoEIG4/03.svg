@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="240px" height="240px" viewBox="0 0 240 240" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.2 (78181) - https://sketchapp.com -->
+    <title>03</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard" transform="translate(-694.000000, -135.000000)">
+            <g id="03" transform="translate(694.000000, 135.000000)">
+                <rect id="Rectangle" fill="#FFFFFF" x="0" y="0" width="240" height="240"></rect>
+                <path d="M91.559361,225 L98.5,192" id="path4329" stroke="#EB1C24" stroke-width="8" stroke-linecap="round"></path>
+                <path d="M120,225 L120,192" id="path4329" stroke="#EB1C24" stroke-width="8" stroke-linecap="round"></path>
+                <path d="M141.52968,225 L148.47032,192" id="path4329" stroke="#EB1C24" stroke-width="8" stroke-linecap="round" transform="translate(144.970320, 208.500000) scale(1, -1) translate(-144.970320, -208.500000) "></path>
+                <polygon id="path4299" stroke="#20459A" stroke-width="8" stroke-linecap="round" stroke-linejoin="round" points="208 77 33 77 33 178.075087 208 178.075087"></polygon>
+                <path d="M147.059361,110.059361 L92.059361,79.059361" id="path4329" stroke="#EB1C24" stroke-width="8" stroke-linecap="round"></path>
+                <path d="M147.059361,47.059361 L92.059361,79.059361" id="path4329" stroke="#EB1C24" stroke-width="8" stroke-linecap="round"></path>
+                <circle id="circle4305" stroke="#E9222E" stroke-width="7.99999999" fill="#FFFFFF" fill-rule="nonzero" stroke-linecap="square" stroke-linejoin="round" cx="147.059361" cy="47.059361" r="16.059361"></circle>
+                <circle id="circle4305" stroke="#E9222E" stroke-width="7.99999999" fill="#FFFFFF" fill-rule="nonzero" stroke-linecap="square" stroke-linejoin="round" cx="92.059361" cy="79.059361" r="16.059361"></circle>
+                <circle id="circle4305" stroke="#E9222E" stroke-width="7.99999999" fill="#FFFFFF" fill-rule="nonzero" stroke-linecap="square" stroke-linejoin="round" cx="147.059361" cy="110.059361" r="16.059361"></circle>
+                <polygon id="path4303" stroke="#20459A" stroke-width="8" stroke-linejoin="round" points="201 178 201 191 39 191 39 178"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>

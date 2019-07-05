@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg width="1349px" height="1990px" viewBox="0 0 1349 1990" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 55.1 (78136) - https://sketchapp.com -->
+    <!-- Generator: Sketch 55.2 (78181) - https://sketchapp.com -->
     <title>Artboard</title>
     <desc>Created with Sketch.</desc>
     <g id="Artboard" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
         <g id="01" transform="translate(138.000000, 135.000000)">
-            <rect id="Rectangle" x="0" y="0" width="240" height="240"></rect>
+            <rect id="Rectangle" fill="#FFFFFF" x="0" y="0" width="240" height="240"></rect>
             <polygon id="path4299" stroke="#20459A" stroke-width="8" stroke-linecap="round" stroke-linejoin="round" points="141 59 81 99 66 99 66 139 81 139 141 180.202112"></polygon>
             <path d="M203,120.5 L223.972985,120.5" id="path4299" stroke="#20459A" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"></path>
             <circle id="circle4305" stroke="#E9222E" stroke-width="7.99999999" fill="#FFFFFF" fill-rule="nonzero" stroke-linecap="square" stroke-linejoin="round" cx="172.059361" cy="120.559361" r="16.059361"></circle>
@@ -15,14 +15,15 @@
             <path d="M197,78.5 L210,92.5" id="path4299" stroke="#20459A" stroke-width="8" stroke-linecap="round" stroke-linejoin="round" transform="translate(203.500000, 85.500000) scale(-1, 1) translate(-203.500000, -85.500000) "></path>
         </g>
         <g id="02" transform="translate(420.000000, 136.000000)">
-            <rect id="Rectangle" x="0" y="0" width="240" height="240"></rect>
+            <rect id="Rectangle" fill="#FFFFFF" x="0" y="0" width="240" height="240"></rect>
             <polygon id="path4327" stroke="#1C419B" stroke-width="8" stroke-linecap="round" points="39 77.75 115 35 191 77.75 191 161.870968 115 206 39 161.870968"></polygon>
             <polygon id="path4327" stroke="#1C419B" stroke-width="8" stroke-linecap="round" points="77 98.5 115.222222 77 153.444444 98.5 153.444444 140.806452 115.222222 163 77 140.806452"></polygon>
             <polygon id="path4327" stroke="#E9222E" stroke-width="8" stroke-linecap="round" points="58 88.25 115.5 56 173 88.25 173 151.709677 115.5 185 58 151.709677"></polygon>
             <polygon id="Triangle" fill="#FFFFFF" transform="translate(158.000000, 121.000000) scale(1, -1) rotate(-90.000000) translate(-158.000000, -121.000000) " points="158 78 232 164 84 164"></polygon>
+            <circle id="circle4305" stroke="#E9222E" stroke-width="7.99999999" fill="#FFFFFF" fill-rule="nonzero" stroke-linecap="square" stroke-linejoin="round" cx="115" cy="120" r="16"></circle>
         </g>
         <g id="03" transform="translate(694.000000, 135.000000)">
-            <rect id="Rectangle" x="0" y="0" width="240" height="240"></rect>
+            <rect id="Rectangle" fill="#FFFFFF" x="0" y="0" width="240" height="240"></rect>
             <path d="M91.559361,225 L98.5,192" id="path4329" stroke="#EB1C24" stroke-width="8" stroke-linecap="round"></path>
             <path d="M120,225 L120,192" id="path4329" stroke="#EB1C24" stroke-width="8" stroke-linecap="round"></path>
             <path d="M141.52968,225 L148.47032,192" id="path4329" stroke="#EB1C24" stroke-width="8" stroke-linecap="round" transform="translate(144.970320, 208.500000) scale(1, -1) translate(-144.970320, -208.500000) "></path>
@@ -35,20 +36,20 @@
             <polygon id="path4303" stroke="#20459A" stroke-width="8" stroke-linejoin="round" points="201 178 201 191 39 191 39 178"></polygon>
         </g>
         <g id="04" transform="translate(972.000000, 135.000000)">
-            <rect id="Rectangle" x="0" y="0" width="240" height="240"></rect>
+            <rect id="Rectangle" fill="#FFFFFF" x="0" y="0" width="240" height="240"></rect>
             <polygon id="path4329" stroke="#EB1C24" stroke-width="8" stroke-linecap="round" points="97.7315585 142.268441 97.7315585 170 142.268441 170 142.268441 142.268441 170 142.268441 170 97.7315585 142.268441 97.7315585 142.268441 70 97.7315585 70 97.7315585 97.7315585 70 97.7315585 70 142.066469"></polygon>
             <circle id="path4303" stroke="#1C419B" stroke-width="8" fill="#FFFFFF" stroke-linecap="square" transform="translate(120.060000, 120.060000) scale(-1, 1) rotate(-180.000000) translate(-120.060000, -120.060000) " cx="120.06" cy="120.06" r="16.06"></circle>
             <polygon id="path4327" stroke="#1C419B" stroke-width="8" stroke-linecap="round" points="53 53 120 53 187 53 187 169.49392 120 211 53 169.49392"></polygon>
         </g>
         <g id="05" transform="translate(138.000000, 413.000000)">
-            <rect id="Rectangle" x="0" y="0" width="240" height="240"></rect>
+            <rect id="Rectangle" fill="#FFFFFF" x="0" y="0" width="240" height="240"></rect>
             <polygon id="path4299" stroke="#20459A" stroke-width="8" stroke-linecap="round" stroke-linejoin="round" points="208 77 33 77 33 178.075087 55.2683413 178.075087 45.9879537 207 89.9343041 178.075087 208 178.075087"></polygon>
             <circle id="circle4305" stroke="#E9222E" stroke-width="7.99999999" fill="#FFFFFF" fill-rule="nonzero" stroke-linecap="square" stroke-linejoin="round" cx="170.059361" cy="126.059361" r="16.059361"></circle>
             <circle id="circle4305" stroke="#E9222E" stroke-width="7.99999999" fill="#FFFFFF" fill-rule="nonzero" stroke-linecap="square" stroke-linejoin="round" cx="70.059361" cy="126.059361" r="16.059361"></circle>
             <circle id="circle4305" stroke="#E9222E" stroke-width="7.99999999" fill="#FFFFFF" fill-rule="nonzero" stroke-linecap="square" stroke-linejoin="round" cx="120.059361" cy="126.059361" r="16.059361"></circle>
         </g>
         <g id="06" transform="translate(416.000000, 413.000000)">
-            <rect id="Rectangle" x="0" y="0" width="240" height="240"></rect>
+            <rect id="Rectangle" fill="#FFFFFF" x="0" y="0" width="240" height="240"></rect>
             <polygon id="path4299" stroke="#EB1C24" stroke-width="8" stroke-linecap="round" stroke-linejoin="round" points="208 77 33 77 33 178.075087 208 178.075087"></polygon>
             <polygon id="path4299" stroke="#E9222E" stroke-width="8" stroke-linecap="round" stroke-linejoin="round" points="208 77 33 77 33 97 208 97"></polygon>
             <path d="M122.317747,138 L186.317747,138" id="path4329" stroke="#20459A" stroke-width="8" stroke-linecap="round"></path>
@@ -57,7 +58,7 @@
             <circle id="circle4305" stroke="#20459A" stroke-width="7.99999999" fill="#FFFFFF" fill-rule="nonzero" stroke-linecap="square" stroke-linejoin="round" cx="71.059361" cy="138.059361" r="16.059361"></circle>
         </g>
         <g id="07" transform="translate(694.000000, 413.000000)">
-            <rect id="Rectangle" x="0" y="0" width="240" height="240"></rect>
+            <rect id="Rectangle" fill="#FFFFFF" x="0" y="0" width="240" height="240"></rect>
             <polygon id="path4327" stroke="#1C419B" stroke-width="8" stroke-linecap="round" points="44 78.75 120 36 196 78.75 196 162.870968 120 207 44 162.870968"></polygon>
             <polygon id="path4327" stroke="#E9222E" stroke-width="8" stroke-linecap="round" points="63 89.25 120.5 57 178 89.25 178 152.709677 120.5 186 63 152.709677"></polygon>
             <polyline id="path4329" stroke="#EB1C24" stroke-width="8" stroke-linecap="round" transform="translate(135.837000, 147.398209) scale(1, -1) translate(-135.837000, -147.398209) " points="126 166.796418 145.673999 152.796418 145.673999 128"></polyline>
@@ -65,7 +66,7 @@
             <circle id="circle4305" stroke="#E9222E" stroke-width="7.99999999" fill="#FFFFFF" fill-rule="nonzero" stroke-linecap="square" stroke-linejoin="round" cx="120.059361" cy="114.059361" r="16.059361"></circle>
         </g>
         <g id="08" transform="translate(972.000000, 413.000000)">
-            <rect id="Rectangle" x="0" y="0" width="240" height="240"></rect>
+            <rect id="Rectangle" fill="#FFFFFF" x="0" y="0" width="240" height="240"></rect>
             <polyline id="path4329" stroke="#EB1C24" stroke-width="8" stroke-linecap="round" points="150.002844 118 119.502844 136.208346 90 118"></polyline>
             <polyline id="path4329" stroke="#EB1C24" stroke-width="8" stroke-linecap="round" points="150.002844 100 119.502844 118.208346 90 100"></polyline>
             <polygon id="path4327" stroke="#1C419B" stroke-width="8" stroke-linecap="round" points="78 40 163 40 163 128.589722 120.5 155 78 128.589722"></polygon>
@@ -73,14 +74,14 @@
             <circle id="circle4305" stroke="#1C419B" stroke-width="7.99999999" fill="#FFFFFF" fill-rule="nonzero" stroke-linecap="square" stroke-linejoin="round" cx="120.059361" cy="71.059361" r="16.059361"></circle>
         </g>
         <g id="09" transform="translate(138.000000, 691.000000)">
-            <rect id="Rectangle" x="0" y="0" width="240" height="240"></rect>
+            <rect id="Rectangle" fill="#FFFFFF" x="0" y="0" width="240" height="240"></rect>
             <polygon id="path4299" stroke="#E9222E" stroke-width="8" fill="#FFFFFF" stroke-linecap="round" stroke-linejoin="round" points="155 61 87 61 87 77 155 77"></polygon>
             <polygon id="path4299" stroke="#20459A" stroke-width="8" stroke-linecap="round" stroke-linejoin="round" points="208 77 154 77 86.1187219 77 33 77 33 178.075087 208 178.075087"></polygon>
             <polygon id="path4299" stroke="#20459A" stroke-width="8" stroke-linecap="round" stroke-linejoin="round" points="208 77 33 77 33 106.311961 104 136.059361 136.118722 136.059361 208 106.311961"></polygon>
             <circle id="circle4305" stroke="#E9222E" stroke-width="7.99999999" fill="#FFFFFF" fill-rule="nonzero" stroke-linecap="square" stroke-linejoin="round" cx="120.059361" cy="136.059361" r="16.059361"></circle>
         </g>
         <g id="10" transform="translate(416.000000, 691.000000)">
-            <rect id="Rectangle" x="0" y="0" width="240" height="240"></rect>
+            <rect id="Rectangle" fill="#FFFFFF" x="0" y="0" width="240" height="240"></rect>
             <polygon id="path4299" stroke="#20459A" stroke-width="8" stroke-linecap="round" stroke-linejoin="round" points="195 65.0750872 33 65.0750872 33 178.075087 195 178.075087"></polygon>
             <polygon id="path4299" stroke="#20459A" stroke-width="8" stroke-linecap="round" stroke-linejoin="round" points="195 45 33 45 33 65 195 65"></polygon>
             <path d="M145.734099,145.545545 L177.416352,145.604906" id="path4329" stroke="#EB1C24" stroke-width="8" stroke-linecap="round" transform="translate(161.575226, 145.575226) rotate(44.892649) translate(-161.575226, -145.575226) "></path>
@@ -94,7 +95,7 @@
             <polygon id="path4299" stroke="#E9222E" stroke-width="8" fill="#FFFFFF" stroke-linecap="round" stroke-linejoin="round" points="170 33 155 33 155 53 170 53"></polygon>
         </g>
         <g id="11" transform="translate(694.000000, 691.000000)">
-            <rect id="Rectangle" x="0" y="0" width="240" height="240"></rect>
+            <rect id="Rectangle" fill="#FFFFFF" x="0" y="0" width="240" height="240"></rect>
             <polyline id="Line" stroke="#E9222E" stroke-width="8" stroke-linecap="square" points="48.4817421 140.993378 48.4817421 160.636642 64 169.628688"></polyline>
             <polyline id="Line" stroke="#20459A" stroke-width="8" stroke-linecap="square" transform="translate(55.759129, 86.317655) rotate(60.000000) translate(-55.759129, -86.317655) " points="48 72 48 91.6432637 63.5182579 100.63531"></polyline>
             <polyline id="Line" stroke="#E9222E" stroke-width="8" stroke-linecap="square" transform="translate(182.759129, 155.317655) scale(-1, -1) rotate(60.000000) translate(-182.759129, -155.317655) " points="175 141 175 160.643264 190.518258 169.63531"></polyline>
@@ -109,7 +110,7 @@
             <circle id="circle4305" stroke="#20459A" stroke-width="7.99999999" fill="#FFFFFF" fill-rule="nonzero" stroke-linecap="square" stroke-linejoin="round" cx="48.059361" cy="121.059361" r="16.059361"></circle>
         </g>
         <g id="12" transform="translate(972.000000, 691.000000)">
-            <rect id="Rectangle" x="0" y="0" width="240" height="240"></rect>
+            <rect id="Rectangle" fill="#FFFFFF" x="0" y="0" width="240" height="240"></rect>
             <circle id="circle4305" stroke="#20459A" stroke-width="7.99999999" fill="#FFFFFF" fill-rule="nonzero" stroke-linecap="square" stroke-linejoin="round" cx="53.059361" cy="120.059361" r="16.059361"></circle>
             <circle id="circle4305" stroke="#20459A" stroke-width="7.99999999" fill="#FFFFFF" fill-rule="nonzero" stroke-linecap="square" stroke-linejoin="round" cx="167.059361" cy="78.059361" r="16.059361"></circle>
             <circle id="circle4305" stroke="#20459A" stroke-width="7.99999999" fill="#FFFFFF" fill-rule="nonzero" stroke-linecap="square" stroke-linejoin="round" cx="177.059361" cy="124.059361" r="16.059361"></circle>
@@ -119,7 +120,7 @@
             <circle id="circle4305" stroke="#20459A" stroke-width="7.99999999" fill="#FFFFFF" fill-rule="nonzero" stroke-linecap="square" stroke-linejoin="round" cx="59.059361" cy="75.059361" r="16.059361"></circle>
         </g>
         <g id="13" transform="translate(138.000000, 961.000000)">
-            <polygon id="Rectangle" points="0 0 240 0 240 41.5476008 240 240 0 240"></polygon>
+            <polygon id="Rectangle" fill="#FFFFFF" points="0 0 240 0 240 41.5476008 240 240 0 240"></polygon>
             <polygon id="path4299" stroke="#E9222E" stroke-width="8" stroke-linecap="round" stroke-linejoin="round" points="133 153 107 153 107 201 133 201"></polygon>
             <circle id="path4303" stroke="#1C419B" stroke-width="8" fill="#FFFFFF" stroke-linecap="square" transform="translate(119.060000, 114.060000) scale(-1, 1) rotate(-180.000000) translate(-119.060000, -114.060000) " cx="119.06" cy="114.06" r="16.06"></circle>
             <circle id="path4303" stroke="#EB1C24" stroke-width="8" fill="#FFFFFF" stroke-linecap="square" transform="translate(187.060000, 55.060000) scale(-1, 1) rotate(-180.000000) translate(-187.060000, -55.060000) " cx="187.06" cy="55.06" r="16.06"></circle>
@@ -127,7 +128,7 @@
             <polyline id="path4327" stroke="#EB1C24" stroke-width="8" stroke-linecap="round" transform="translate(119.515152, 81.000000) scale(1, -1) translate(-119.515152, -81.000000) " points="203.030303 55 119.515152 107 36 55"></polyline>
         </g>
         <g id="14" transform="translate(416.000000, 961.000000)">
-            <rect id="Rectangle" x="0" y="0" width="240" height="240"></rect>
+            <rect id="Rectangle" fill="#FFFFFF" x="0" y="0" width="240" height="240"></rect>
             <polygon id="path4329" stroke="#1C419B" stroke-width="8" stroke-linecap="round" points="154 60.6818182 86 91 86 75.3181818 154 45"></polygon>
             <polygon id="path4327" stroke="#1C419B" stroke-width="8" stroke-linecap="round" points="65.440639 27 178.118722 27 177.723248 164.515757 119.331943 200.801182 65 164.515757"></polygon>
             <circle id="circle4942" stroke="#E9222E" stroke-width="8" stroke-linecap="square" stroke-linejoin="round" cx="120.63303" cy="157.79601" r="16.059361"></circle>
@@ -139,19 +140,19 @@
             <path d="M136.44953,100.01631 L126.42439,111.25459" id="path4958" stroke="#E9222E" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"></path>
         </g>
         <g id="15" transform="translate(695.000000, 961.000000)">
-            <rect id="Rectangle" x="0" y="0" width="240" height="240"></rect>
+            <rect id="Rectangle" fill="#FFFFFF" x="0" y="0" width="240" height="240"></rect>
             <polygon id="path4327" stroke="#1C419B" stroke-width="8" stroke-linecap="round" points="112 43.059361 128 43.059361 128 75.3181818 153 75.3181818 153 91 128 91 128 164.515757 153 159.936136 180.042062 150.05594 171.192345 139.7578 208.900921 132.72995 202.693655 168.5156 192.040806 159.936136 153 183.978515 128 192.170625 120 200.801182 112 192.170625 85 183.978515 49.6342617 159.936136 38.0687168 168.5156 33.5249955 132.72995 71.0086278 139.7578 59.9112396 150.05594 85 159.936136 112 164.515757 112 91 85 91 85 75.3181818 112 75.3181818"></polygon>
             <circle id="circle4942" stroke="#E9222E" stroke-width="8" fill="#FFFFFF" stroke-linecap="square" stroke-linejoin="round" cx="120.059361" cy="43.059361" r="16.059361"></circle>
         </g>
         <g id="16" transform="translate(972.000000, 961.000000)">
-            <polygon id="Rectangle" points="0 0 240 0 240 41.5476008 240 240 0 240"></polygon>
-            <polygon id="path4299" stroke="#1C419B" stroke-width="8" stroke-linecap="round" stroke-linejoin="round" points="142 133 116 133 116 181 142 181"></polygon>
-            <circle id="path4303" stroke="#E9222E" stroke-width="8" fill="#FFFFFF" stroke-linecap="square" transform="translate(129.060000, 83.060000) scale(-1, 1) rotate(-180.000000) translate(-129.060000, -83.060000) " cx="129.06" cy="83.06" r="16.06"></circle>
-            <polygon id="path4327" stroke="#1C419B" stroke-width="8" stroke-linecap="round" transform="translate(129.500000, 108.000000) scale(1, -1) translate(-129.500000, -108.000000) " points="85 35 129.5 35 174 35 174 142.64628 129.5 181 85 142.64628"></polygon>
-            <polyline id="path4327" stroke="#EB1C24" stroke-width="8" stroke-linecap="round" transform="translate(120.200484, 152.079637) scale(1, -1) translate(-120.200484, -152.079637) " points="223.400969 123 207.62281 123 204.780853 132.179551 210.995718 143.488923 194.539662 143.488923 183.879697 137.268301 180.67703 123 75.267851 123 60.9174721 132.179551 51.2211638 146.905942 55.3272119 165.015924 65 181.159275 39.059361 181.159275 23 165.015924 17 141.015924 17 123"></polyline>
+            <polygon id="Rectangle" fill="#FFFFFF" points="0 0 240 0 240 41.5476008 240 240 0 240"></polygon>
+            <polyline id="path4327" stroke="#1C419B" stroke-width="8" stroke-linecap="round" transform="translate(119.152655, 132.687900) scale(1, -1) translate(-119.152655, -132.687900) " points="169.30531 116.888914 165.281871 115 146.385863 122.394216 132.105505 117.865934 120.57318 122.394216 120.57318 132.6879 129.504083 137.157429 127.705923 146.012116 113.273132 150.3758 101.532539 146.012116 93.0796838 134.32786 87.4401496 117.865934 69 122.394216"></polyline>
+            <polyline id="path4327" stroke="#1C419B" stroke-width="8" stroke-linecap="round" transform="translate(114.615156, 161.697108) scale(1, -1) translate(-114.615156, -161.697108) " points="175.849961 163.275139 164.008388 158 145.678273 165.394216 124.041904 158 103.033026 165.394216 85.1516125 158 67.5605802 165.394216 53.3803518 158"></polyline>
+            <polygon id="path4327" stroke="#E9222E" stroke-width="8" stroke-linecap="round" transform="translate(116.000000, 120.000000) scale(1, -1) translate(-116.000000, -120.000000) " points="43 63 189 63 115.45134 177"></polygon>
+            <polygon id="path4327" stroke="#1C419B" stroke-width="8" stroke-linecap="round" transform="translate(116.000000, 113.000000) scale(1, -1) translate(-116.000000, -113.000000) " points="14.8245614 34 217.175439 34 115.239577 192"></polygon>
         </g>
         <g id="17" transform="translate(138.000000, 1239.000000)">
-            <rect id="Rectangle" x="0" y="0" width="240" height="240"></rect>
+            <rect id="Rectangle" fill="#FFFFFF" x="0" y="0" width="240" height="240"></rect>
             <polyline id="path4329" stroke="#EB1C24" stroke-width="8" stroke-linecap="round" transform="translate(109.837000, 132.029680) scale(1, -1) translate(-109.837000, -132.029680) " points="100 151.059361 119.673999 128.325304 119.673999 113"></polyline>
             <polyline id="path4329" stroke="#EB1C24" stroke-width="8" stroke-linecap="round" transform="translate(77.837000, 144.500000) scale(-1, -1) translate(-77.837000, -144.500000) " points="68 176 87.6739993 153.265943 87.6739993 113"></polyline>
             <polyline id="path4329" stroke="#EB1C24" stroke-width="8" stroke-linecap="round" transform="translate(161.837000, 144.500000) scale(1, -1) translate(-161.837000, -144.500000) " points="152 176 171.673999 153.265943 171.673999 113"></polyline>
@@ -172,6 +173,5 @@
             <polyline id="path4329" stroke="#EB1C24" stroke-width="10" stroke-linecap="round" points="133.74596 102.35287 75.8102511 68.90367 -1.42108547e-14 112.67274 -1.42108547e-14 200.3739 74.5629801 243.42285 150.58822 199.52966 150.58822 174.37937"></polyline>
             <path d="M75.6165711,69.55927 L75.6165711,44.94829" id="path4413" stroke="#1C419B" stroke-width="10" stroke-linecap="round"></path>
         </g>
-        <circle id="circle4305" stroke="#E9222E" stroke-width="7.99999999" fill="#FFFFFF" fill-rule="nonzero" stroke-linecap="square" stroke-linejoin="round" cx="535" cy="256" r="16"></circle>
     </g>
 </svg>
