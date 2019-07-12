@@ -57,23 +57,16 @@ Voici les 5 grands principes de la démarche de *design system* :
 ### Exemples de *design systems*
 
 * **http://styleguides.io/**
-* https://material.io/
+* https://material.io/ par Google
 * https://material-ui.com/
-* https://react.semantic-ui.com/
-* https://ant.design/
-* https://bulma.io/
-* https://www.carbondesignsystem.com/
-* https://polaris.shopify.com/
-* https://styleguide.mailchimp.com/
-* https://principles.design/
-* https://www.invisionapp.com/inside-design/ux-team-core-values/
-* http://www.bbc.co.uk/gel/guidelines/how-to-use-reactions-in-your-content
 * https://atlassian.design/
-* https://www.ibm.com/design/language/
-* https://www.lightningdesignsystem.com/
-* https://design-system.futurelearn.com/
-* https://dev.fitbit.com/guides/design-guidelines/
-* https://styleguide.pivotal.io/
+* https://www.carbondesignsystem.com/ par IBM
+* https://www.microsoft.com/design/fluent/ par Microsoft
+* https://www.lightningdesignsystem.com/ par Salesforces
+* https://airbnb.design/ par AirBnb
+* https://polaris.shopify.com/
+* https://ant.design/
+* https://semantic-ui.com/
 
 ### Articles sur le *design system*
 
@@ -81,13 +74,13 @@ Voici les 5 grands principes de la démarche de *design system* :
 > * [Tout savoir sur le Design System](https://newflux.fr/2017/10/23/savoir-design-system/) par Simon Gomez
 > * [Tout savoir sur les systèmes de design System](https://medium.com/@audreyhacq/tout-savoir-sur-les-syst%C3%A8mes-de-design-1b6400c9a1b3) par Audrey Hacq
 > * [Qu'est-ce qu'un design system](https://www.usabilis.com/design-system/) par Usabilis
+> * [Présentation sur l'architecture front-end et les design systems](https://noti.st/sturobson/yc1gwN)
 
 ## Design System EIG
 
 ### Contexte de l'Etat
 
-La [Charte Internet de l'Etat](http://references.modernisation.gouv.fr/charte-internet-de-letat
-) a été publiée en Février 2012. Elle constitue un guide pratique et opérationnel dans le but de garantir une amélioration de la qualité générale de l'Internet de l'État. Cette Charte s'appuie sur la [Charte Ergonomique des sites internet publics](http://references.modernisation.gouv.fr/sites/default/files/Charte_ergonomique_v2.0_2.pdf)datant de 2008, qui définit un ensemble de règles ergonomiques communes aux interfaces des sites Internet publics. 
+La [Charte Internet de l'Etat](http://references.modernisation.gouv.fr/charte-internet-de-letat) a été publiée en Février 2012. Elle constitue un guide pratique et opérationnel dans le but de garantir une amélioration de la qualité générale de l'Internet de l'État. Cette Charte s'appuie sur la [Charte Ergonomique des sites internet publics](http://references.modernisation.gouv.fr/sites/default/files/Charte_ergonomique_v2.0_2.pdf)datant de 2008, qui définit un ensemble de règles ergonomiques communes aux interfaces des sites Internet publics. 
 
 D'autres références et ressources comme https://template.data.gouv.fr/ (cf. [GitHub](http://github.com/etalab/template.data.gouv.fr)) ou [PIDILA](https://pidila.gitlab.io/) ont également un intérêt pour le programme Entrepreneur d'Intérêt Général.
 
@@ -100,8 +93,8 @@ Concernant le visuel du programme nous avons les élements suivants :
 
 * L'ensemble des [**logos**](Visuel/Logo/) des défis, du programme EIG, et des adminisitrations de l'écoystème
 	* [Logos des administrations](Visuel/Logo/LogoAdministrations)
-	* [Logos **EIG 2019**](Visuel/Logo/LogoEIG2019) : au [format SVG](Visuel/Logo/LogoEIG2019.svg), au [format PNG](Visuel/Logo/LogoEIG2019.png)
-	* [Logos **EIG 2018**](Visuel/Logo/LogoEIG2019) : au [format SVG](Visuel/Logo/LogoEIG2018.svg), au [format PNG](Visuel/Logo/LogoEIG2018.png)
+	* [Logos **EIG 2019**](Visuel/Logo/LogoEIG3) : au [format SVG](Visuel/Logo/LogoEIG3.svg), au [format PNG](Visuel/Logo/LogoEIG3.png)
+	* [Logos **EIG 2018**](Visuel/Logo/LogoEIG2019) : au [format SVG](Visuel/Logo/LogoEIG2.svg), au [format PNG](Visuel/Logo/LogoEIG2.png)
 * Des [**ressources de communication**](Visuel/Ressources)
 	* Concernant la communication du programme EIG : 
 		* Des [conseils sur la présentation du programme EIG](https://github.com/entrepreneur-interet-general/eig-link/blob/master/communication.md#pr%C3%A9senter-le-programme-eig)
@@ -114,7 +107,7 @@ Concernant le visuel du programme nous avons les élements suivants :
 
 ### Exemple avec la liste des logos EIG 2019
 
-![Liste des logos EIG 2019](Visuel/Logo/LogoEIG2019.png)
+![Liste des logos EIG 2019](Visuel/Logo/LogoEIG3.png)
 
 
 ## Maintenance de ce dépôt
@@ -142,4 +135,4 @@ Merci !
 
 Les contenus accessibles dans ce dépôt sont placés sous [Licence Ouverte 2.0](LICENSE.md) dans ce répertoire. Vous êtes libre de réutiliser les contenus de ce dépôt sous les conditions précisées dans cette licence.
 
-![Logo](./Visuel/Logo/LogoMarianneEIG.png)
+![Logo](./Visuel/Logo/LogoEIG-Programme/LogoMarianneEIG.png)
