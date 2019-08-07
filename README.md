@@ -56,9 +56,14 @@ Voici les 5 grands principes de la démarche de *design system* :
 
 ### Exemples de *design systems*
 
+* https://designsystem.digital.gov/ du Gouvernement US (#USWDS)
+* https://design-system.service.gov.uk/ du Gouvernement anglais 
+* https://designers.italia.it/ du Gouvernement italien
+* https://designsystem.gov.au/ du Gouvernement australien
+* https://brand.estonia.ee/ du Gouvernement estonien 
+* https://design.gccollab.ca/ du Gouvernement canadien
 * **http://styleguides.io/**
 * https://material.io/ par Google
-* https://material-ui.com/
 * https://atlassian.design/
 * https://www.carbondesignsystem.com/ par IBM
 * https://www.microsoft.com/design/fluent/ par Microsoft
@@ -66,6 +71,7 @@ Voici les 5 grands principes de la démarche de *design system* :
 * https://airbnb.design/ par AirBnb
 * https://polaris.shopify.com/
 * https://ant.design/
+* https://material-ui.com/
 * https://semantic-ui.com/
 
 ### Articles sur le *design system*
@@ -76,7 +82,7 @@ Voici les 5 grands principes de la démarche de *design system* :
 > * [Qu'est-ce qu'un design system](https://www.usabilis.com/design-system/) par Usabilis
 > * [Présentation sur l'architecture front-end et les design systems](https://noti.st/sturobson/yc1gwN)
 
-## Design System EIG
+## Design System pour le programme EIG
 
 ### Contexte de l'Etat
 
