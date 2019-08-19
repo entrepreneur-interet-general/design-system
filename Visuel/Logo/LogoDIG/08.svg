@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="240px" height="240px" viewBox="0 0 240 240" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 56.3 (81716) - https://sketch.com -->
+    <title>08</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard" transform="translate(-972.000000, -413.000000)">
+            <g id="08" transform="translate(972.000000, 413.000000)">
+                <polygon id="Rectangle" fill="#FFFFFF" points="0 0 240 0 240 240 133.048357 240 0 240"></polygon>
+                <path d="M164,198.8125 L204,198.8125" id="Line-2" stroke="#1C419B" stroke-width="8" stroke-linecap="square"></path>
+                <path d="M32,42 L72,42" id="Line-2" stroke="#1C419B" stroke-width="8" stroke-linecap="square"></path>
+                <path d="M208.768225,114.742244 L226.426839,78.851112" id="Line-2" stroke="#1C419B" stroke-width="8" stroke-linecap="square" transform="translate(217.597532, 96.796678) rotate(3.000000) translate(-217.597532, -96.796678) "></path>
+                <path d="M9,157.891132 L26.6586136,122" id="Line-2" stroke="#1C419B" stroke-width="8" stroke-linecap="square" transform="translate(17.829307, 139.945566) rotate(3.000000) translate(-17.829307, -139.945566) "></path>
+                <path d="M160.503493,40.3454041 L140,6" id="Line-2" stroke="#1C419B" stroke-width="8" stroke-linecap="square" transform="translate(150.251746, 23.172702) rotate(3.000000) translate(-150.251746, -23.172702) "></path>
+                <polygon id="path4327" stroke="#E9222E" stroke-width="8" stroke-linecap="round" transform="translate(116.500000, 120.312500) rotate(90.000000) translate(-116.500000, -120.312500) " points="38 76.15625 116.5 32 195 76.15625 195 163.044355 116.5 208.625 38 163.044355"></polygon>
+                <circle id="circle4305" stroke="#E9222E" stroke-width="7.99999999" fill="#FFFFFF" fill-rule="nonzero" stroke-linecap="square" stroke-linejoin="round" cx="116" cy="120" r="16"></circle>
+                <circle id="circle4305" stroke="#1C419B" stroke-width="7.99999999" fill="#FFFFFF" fill-rule="nonzero" stroke-linecap="square" stroke-linejoin="round" cx="70" cy="121" r="16"></circle>
+                <circle id="circle4305" stroke="#1C419B" stroke-width="7.99999999" fill="#FFFFFF" fill-rule="nonzero" stroke-linecap="square" stroke-linejoin="round" cx="162" cy="120" r="16"></circle>
+            </g>
+        </g>
+    </g>
+</svg>

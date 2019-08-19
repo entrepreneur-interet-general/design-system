@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg width="1349px" height="1990px" viewBox="0 0 1349 1990" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 55.2 (78181) - https://sketchapp.com -->
+    <!-- Generator: Sketch 56.3 (81716) - https://sketch.com -->
     <title>Artboard</title>
     <desc>Created with Sketch.</desc>
     <g id="Artboard" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
@@ -66,12 +66,16 @@
             <circle id="circle4305" stroke="#E9222E" stroke-width="7.99999999" fill="#FFFFFF" fill-rule="nonzero" stroke-linecap="square" stroke-linejoin="round" cx="120.059361" cy="114.059361" r="16.059361"></circle>
         </g>
         <g id="08" transform="translate(972.000000, 413.000000)">
-            <rect id="Rectangle" fill="#FFFFFF" x="0" y="0" width="240" height="240"></rect>
-            <polyline id="path4329" stroke="#EB1C24" stroke-width="8" stroke-linecap="round" points="150.002844 118 119.502844 136.208346 90 118"></polyline>
-            <polyline id="path4329" stroke="#EB1C24" stroke-width="8" stroke-linecap="round" points="150.002844 100 119.502844 118.208346 90 100"></polyline>
-            <polygon id="path4327" stroke="#1C419B" stroke-width="8" stroke-linecap="round" points="78 40 163 40 163 128.589722 120.5 155 78 128.589722"></polygon>
-            <polygon id="Star" stroke="#EB1C24" stroke-width="6" points="121.5 201.003616 105.740133 213.836735 112.900323 194.468103 96 184.890041 115.445613 184.890041 121.5 167 127.554387 184.890041 147 184.890041 130.09723 194.468103 137.259867 213.836735"></polygon>
-            <circle id="circle4305" stroke="#1C419B" stroke-width="7.99999999" fill="#FFFFFF" fill-rule="nonzero" stroke-linecap="square" stroke-linejoin="round" cx="120.059361" cy="71.059361" r="16.059361"></circle>
+            <polygon id="Rectangle" fill="#FFFFFF" points="0 0 240 0 240 240 133.048357 240 0 240"></polygon>
+            <path d="M164,198.8125 L204,198.8125" id="Line-2" stroke="#1C419B" stroke-width="8" stroke-linecap="square"></path>
+            <path d="M32,42 L72,42" id="Line-2" stroke="#1C419B" stroke-width="8" stroke-linecap="square"></path>
+            <path d="M208.768225,114.742244 L226.426839,78.851112" id="Line-2" stroke="#1C419B" stroke-width="8" stroke-linecap="square" transform="translate(217.597532, 96.796678) rotate(3.000000) translate(-217.597532, -96.796678) "></path>
+            <path d="M9,157.891132 L26.6586136,122" id="Line-2" stroke="#1C419B" stroke-width="8" stroke-linecap="square" transform="translate(17.829307, 139.945566) rotate(3.000000) translate(-17.829307, -139.945566) "></path>
+            <path d="M160.503493,40.3454041 L140,6" id="Line-2" stroke="#1C419B" stroke-width="8" stroke-linecap="square" transform="translate(150.251746, 23.172702) rotate(3.000000) translate(-150.251746, -23.172702) "></path>
+            <polygon id="path4327" stroke="#E9222E" stroke-width="8" stroke-linecap="round" transform="translate(116.500000, 120.312500) rotate(90.000000) translate(-116.500000, -120.312500) " points="38 76.15625 116.5 32 195 76.15625 195 163.044355 116.5 208.625 38 163.044355"></polygon>
+            <circle id="circle4305" stroke="#E9222E" stroke-width="7.99999999" fill="#FFFFFF" fill-rule="nonzero" stroke-linecap="square" stroke-linejoin="round" cx="116" cy="120" r="16"></circle>
+            <circle id="circle4305" stroke="#1C419B" stroke-width="7.99999999" fill="#FFFFFF" fill-rule="nonzero" stroke-linecap="square" stroke-linejoin="round" cx="70" cy="121" r="16"></circle>
+            <circle id="circle4305" stroke="#1C419B" stroke-width="7.99999999" fill="#FFFFFF" fill-rule="nonzero" stroke-linecap="square" stroke-linejoin="round" cx="162" cy="120" r="16"></circle>
         </g>
         <g id="09" transform="translate(138.000000, 691.000000)">
             <rect id="Rectangle" fill="#FFFFFF" x="0" y="0" width="240" height="240"></rect>
