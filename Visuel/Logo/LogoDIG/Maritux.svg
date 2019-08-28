@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="240px" height="240px" viewBox="0 0 240 240" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 57.1 (83088) - https://sketch.com -->
+    <title>Maritux</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="LogoDIG" transform="translate(-416.000000, -969.000000)" fill="#FFFFFF">
+            <g id="Maritux" transform="translate(416.000000, 969.000000)">
+                <rect id="Rectangle" x="0" y="0" width="240" height="240"></rect>
+                <polygon id="path4327" stroke="#E9222E" stroke-width="8" stroke-linecap="round" transform="translate(119.994949, 119.994949) scale(-1, 1) rotate(45.000000) translate(-119.994949, -119.994949) " points="121.100213 49.9949494 106.36337 105.258107 49.9949494 119.994949 106.36337 134.731791 121.100213 189.994949 135.837055 134.731791 189.994949 119.994949 135.837055 105.258107"></polygon>
+                <polygon id="path4327" stroke="#1C419B" stroke-width="8" stroke-linecap="round" transform="translate(121.494949, 119.994949) scale(-1, 1) translate(-121.494949, -119.994949) " points="122.994949 24.9949494 102.994949 99.9949494 26.4949494 119.994949 102.994949 139.994949 122.994949 214.994949 142.994949 139.994949 216.494949 119.994949 142.994949 99.9949494"></polygon>
+                <circle id="circle4942" stroke="#E9222E" stroke-width="8" stroke-linecap="square" stroke-linejoin="round" cx="120.05431" cy="120.05431" r="16.059361"></circle>
+            </g>
+        </g>
+    </g>
+</svg>
