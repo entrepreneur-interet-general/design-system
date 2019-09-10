@@ -2,7 +2,7 @@
 
 Ce dépôt a un double objectif :
 1. Définir et comprendre le processus de *design system* 
-2. Construire un design system au sein du programme EIG et le mettre en application afin d'en définir les limites et les règles
+2. Chercher à construire un design system au sein du programme EIG, le mettre en application afin d'en définir les limites, les conditions et les règles
 
 Ce dépôt est à destination principalement des parties prenantes du programme Entrepreneur d'Intérêt Général. Il peut également être utile à toutes personnes cherchant à comprendre l'utilité d'un design system, en particulier pour les agents de la fonction publique.
 
