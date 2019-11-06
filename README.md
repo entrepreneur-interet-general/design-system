@@ -2,9 +2,9 @@
 
 Ce dépôt a un double objectif :
 1. Définir et comprendre le processus de *design system* 
-2. Chercher à construire un design system au sein du programme EIG, le mettre en application afin d'en définir les limites, les conditions et les règles
+2. Chercher à construire un design system au sein du programme EIG, le mettre en application afin d’en définir les limites, les conditions et les règles
 
-Ce dépôt est à destination principalement des parties prenantes du programme Entrepreneur d'Intérêt Général. Il peut également être utile à toutes personnes cherchant à comprendre l'utilité d'un design system, en particulier pour les agents de la fonction publique.
+Ce dépôt est à destination principalement des parties prenantes du programme Entrepreneur d’Intérêt Général. Il peut également être utile à toutes personnes cherchant à comprendre l’utilité d’un design system, en particulier pour les agents de la fonction publique.
 
 ## Sommaire
 
@@ -14,7 +14,7 @@ Ce dépôt est à destination principalement des parties prenantes du programme 
 	* [Exemples de *design systems*](#exemples-de-design-systems)
 	* [Articles sur le *design system*](#articles-sur-le-design-system)
 * [Design System EIG](#design-system-eig)
-	* [Contexte de l'Etat](#contexte-de-letat)
+	* [Contexte de l’État](#contexte-de-letat)
 	* [Visuel du programme EIG](#visuel-du-programme-eig)
 	* [Exemple avec la liste des logos EIG 2019](#exemple-avec-la-liste-des-logos-eig-2019)
 * [Maintenance de ce dépôt](#maintenance-de-ce-dépôt)
@@ -23,12 +23,12 @@ Ce dépôt est à destination principalement des parties prenantes du programme 
 
 ## Définition du *design system*
 
-Un ***design system*** (ou une conception de *système*) est un processus de définition de l'architecture, 
-des modules, des interfaces et des *données* permettant à un système de satisfaire à des *exigences* spécifiques. La conception de système pourrait être considérée comme l'application de la *théorie des systèmes* au *développement de produits*.
+Un ***design system*** (ou une conception de *système*) est un processus de définition de l’architecture, 
+des modules, des interfaces et des *données* permettant à un système de satisfaire à des *exigences* spécifiques. La conception de système pourrait être considérée comme l’application de la *théorie des systèmes* au *développement de produits*.
 
 > *"Un système de conception n’est pas un projet. C’est un produit servant des produits." Nathan Curtis*
 
-Dans l'espace numérique un ***design system*** est un processus référentiel UX et UI que les éditeurs et les parties prenantes utilisent pour designer et développer des produits ou des services. Quel que soit **l'objet** (application, plateforme de service, siteweb…), quel que soit **le secteur** (BtoC, BtoB, BtoE…) et quel que soit **les supports** (web, mobile, print…). 
+Dans l’espace numérique un ***design system*** est un processus référentiel UX et UI que les éditeurs et les parties prenantes utilisent pour designer et développer des produits ou des services. Quel que soit **l’objet** (application, plateforme de service, siteweb…), quel que soit **le secteur** (BtoC, BtoB, BtoE…) et quels que soient **les supports** (web, mobile, print…). 
 
 Un ***design system*** agit sur 3 composantes du design : le visuel, les usages et le langage.
 * **Visuel**: les éléments visuels permettent de faire apparaître les valeurs, le positionnement et la raison d’être et sont la base de la perception des utilisateurs.
@@ -50,9 +50,9 @@ Voici les 5 grands principes de la démarche de *design system* :
 
 > * **Vivant** : contrairement à une charte graphique, le Design System est un produit vivant qui évolue et s’améliore avec le temps en fonction des nouveaux besoins, des nouveaux usages et de l’identité de l’entreprise.
 > * **Agnostique** : c’est le design qui doit diriger le développement et pas l’inverse. Un Design System doit donc être pensé indépendamment d’une technologie mais doit pouvoir être compatible avec les technologies des interfaces web.
-> * **Atomic** : le Design System repose sur le principe de l’Atomic Design. Là encore, contrairement aux chartes numériques traditionnelles, un Design System n'est pas conçu par pages mais par composants. Une des pierres angulaires de la conception d’un Design System est l’identification de l’ensemble des composants et motifs de l’écosystème numérique de l’entreprise.
+> * **Atomic** : le Design System repose sur le principe de l’Atomic Design. Là encore, contrairement aux chartes numériques traditionnelles, un Design System n’est pas conçu par pages mais par composants. Une des pierres angulaires de la conception d’un Design System est l’identification de l’ensemble des composants et motifs de l’écosystème numérique de l’entreprise.
 > * **Universel** : un Design System doit pouvoir reprendre un ensemble de standards universels qui permettra aux utilisateurs de ne pas avoir à acquérir de nouvelles habitudes. Il doit également répondre à des logiques d’internationalisation, que ce soit sur les usages ou le langage.
-> * **Inclusive** : le Design System doit s'adresser à tous, indépendamment du contexte d’utilisation et du niveau de maturité des utilisateurs avec le numérique. Il doit intégrer les grandes règles d’utilisabilité et d’accessibilité.
+> * **Inclusive** : le Design System doit s’adresser à tous, indépendamment du contexte d’utilisation et du niveau de maturité des utilisateurs avec le numérique. Il doit intégrer les grandes règles d’utilisabilité et d’accessibilité.
 
 ### Exemples de *design systems*
 
@@ -79,16 +79,16 @@ Voici les 5 grands principes de la démarche de *design system* :
 > * [Systems design](https://en.wikipedia.org/wiki/Systems_design) par Wikipédia 
 > * [Tout savoir sur le Design System](https://newflux.fr/2017/10/23/savoir-design-system/) par Simon Gomez
 > * [Tout savoir sur les systèmes de design System](https://medium.com/@audreyhacq/tout-savoir-sur-les-syst%C3%A8mes-de-design-1b6400c9a1b3) par Audrey Hacq
-> * [Qu'est-ce qu'un design system](https://www.usabilis.com/design-system/) par Usabilis
-> * [Présentation sur l'architecture front-end et les design systems](https://noti.st/sturobson/yc1gwN)
+> * [Qu’est-ce qu’un design system](https://www.usabilis.com/design-system/) par Usabilis
+> * [Présentation sur l’architecture front-end et les design systems](https://noti.st/sturobson/yc1gwN)
 
 ## Design System pour le programme EIG
 
-### Contexte de l'Etat
+### Contexte de l’État
 
-La [Charte Internet de l'Etat](http://references.modernisation.gouv.fr/charte-internet-de-letat) a été publiée en Février 2012. Elle constitue un guide pratique et opérationnel dans le but de garantir une amélioration de la qualité générale de l'Internet de l'État. Cette Charte s'appuie sur la [Charte Ergonomique des sites internet publics](http://references.modernisation.gouv.fr/sites/default/files/Charte_ergonomique_v2.0_2.pdf)datant de 2008, qui définit un ensemble de règles ergonomiques communes aux interfaces des sites Internet publics. 
+La [Charte Internet de l’État](http://references.modernisation.gouv.fr/charte-internet-de-letat) a été publiée en Février 2012. Elle constitue un guide pratique et opérationnel dans le but de garantir une amélioration de la qualité générale de l’Internet de l’État. Cette Charte s’appuie sur la [Charte Ergonomique des sites internet publics](http://references.modernisation.gouv.fr/sites/default/files/Charte_ergonomique_v2.0_2.pdf)datant de 2008, qui définit un ensemble de règles ergonomiques communes aux interfaces des sites Internet publics. 
 
-D'autres références et ressources comme https://template.data.gouv.fr/ (cf. [GitHub](http://github.com/etalab/template.data.gouv.fr)) ou [PIDILA](https://pidila.gitlab.io/) ont également un intérêt pour le programme Entrepreneur d'Intérêt Général.
+D’autres références et ressources comme https://template.data.gouv.fr/ (cf. [GitHub](http://github.com/etalab/template.data.gouv.fr)) ou [PIDILA](https://pidila.gitlab.io/) ont également un intérêt pour le programme Entrepreneur d’Intérêt Général.
 
 ### Visuel du programme EIG
 
@@ -97,7 +97,7 @@ Ce dépôt est principalement à destination des entrepreneurs du programme.
 
 Concernant le visuel du programme nous avons les élements suivants :
 
-* L'ensemble des [**logos**](Visuel/Logo/) des défis, du programme EIG, et des adminisitrations de l'écoystème
+* L’ensemble des [**logos**](Visuel/Logo/) des défis, du programme EIG, et des adminisitrations de l’écoystème
 	* [Logos des administrations](Visuel/Logo/LogoAdministrations)
 	* [Logos **EIG 2019**](Visuel/Logo/LogoEIG3) : au [format SVG](Visuel/Logo/LogoEIG3.svg), au [format PNG](Visuel/Logo/LogoEIG3.png)
 	* [Logos **EIG 2018**](Visuel/Logo/LogoEIG2019) : au [format SVG](Visuel/Logo/LogoEIG2.svg), au [format PNG](Visuel/Logo/LogoEIG2.png)
@@ -108,7 +108,7 @@ Concernant le visuel du programme nous avons les élements suivants :
 	* Concernant votre propre communication
 		* Des **modèles/templates de présentation/slides** (aux formats [ODP (opensource)](/Visuel/Ressources/ComTemplate/TemplateEIG.odp), [PPT](/Visuel/Ressources/ComTemplate/TemplateEIG.pptx), [KEY](/Visuel/Ressources/ComTemplate/PrésentationEIG.key), [GoogleSlide](https://docs.google.com/presentation/d/1t-XPts11-v4aBxwbiaOyEyyFkgVD5i7IGTZBUpFhZfU/edit?usp=sharing))
 		* Des [sites web de la promotion EIG 2018](https://github.com/entrepreneur-interet-general/eig-link/blob/master/contributions.md#sites-web-publi%C3%A9s-pendant-les-d%C3%A9fis-eig-2018)
-* Des [**illustration unDraw**](Visuel/Illustration/unDraw) : Ce sont des exemples d'illustrations de personnes provenant du site [unDraw](https://undraw.co/illustrations) au couleur du programme EIG
+* Des [**illustrations unDraw**](Visuel/Illustration/unDraw) : Ce sont des exemples d’illustrations de personnes provenant du site [unDraw](https://undraw.co/illustrations) aux couleurs du programme EIG
 * Des [**polices/typos**](Visuel/Police/) utilisées sur le site web EIG 
 
 ### Exemple avec la liste des logos EIG 2019
@@ -118,7 +118,7 @@ Concernant le visuel du programme nous avons les élements suivants :
 
 ## Maintenance de ce dépôt
 
-Ce dépôt est à destination du programme Entrepreneur d'Intérêt Général.
+Ce dépôt est à destination du programme Entrepreneur d’Intérêt Général.
 
 Ce projet est maintenu par Jean-Baptiste Le Dévéhat, [EIG Link 2019](https://github.com/entrepreneur-interet-general/eig-link).
 
@@ -128,7 +128,7 @@ Pour toute question : `jean-baptiste.le-devehat@data.gouv.fr`
 
 Ce dépôt est ouvert aux contributions - vous pouvez :
 - poser une question sur le contenu en ouvrant une issue ;
-- *forker* le dépôt et envoyer des *pull request* avec des propositions d'amélioration ;
+- *forker* le dépôt et envoyer des *pull request* avec des propositions d’amélioration ;
 - si vous êtes EIG, demander à être ajouté comme collaborateur pour pouvoir contribuer directement au dépôt.
 
 Merci !
